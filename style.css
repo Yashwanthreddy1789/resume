@@ -1,0 +1,8 @@
+h1{
+    color: rgb(100, 120, 80);
+    text-shadow:1PX 1PX 1PX blue;
+    text-align: center;
+}
+*{
+    background-color:pink;
+}
